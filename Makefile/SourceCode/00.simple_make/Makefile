@@ -14,4 +14,5 @@ hello.o : hello.c log.h
 	gcc -c hello.c
 
 clean :
-	rm *.o
+	-rm -f *.o
+	-rm -f main.exe
