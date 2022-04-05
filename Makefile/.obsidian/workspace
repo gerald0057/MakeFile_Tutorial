@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10.规则-伪目标.md",
+            "file": "18.命令-打包.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.规则-伪目标.md",
+                "file": "18.命令-打包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d14f76a7524ab297",
   "lastOpenFiles": [
+    "18.命令-打包.md",
+    "17.命令-嵌套.md",
+    "16.命令-错误.md",
+    "15.命令-执行.md",
+    "14.命令-打印.md",
+    "13.规则-自动生成依赖.md",
+    "12.规则-静态模式.md",
+    "11.规则-多目标.md",
     "10.规则-伪目标.md",
-    "02.Makefile.md",
-    "01.编译&链接.md",
-    "00.Makefile.md",
-    "04.make.md",
-    "04.make clean.md",
-    "09.规则-文件搜寻.md",
-    "08.规则-通配符.md",
-    "03.变量.md",
-    "05.include.md"
+    "02.Makefile.md"
   ]
 }
