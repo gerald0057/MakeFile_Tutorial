@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "35.函数-错误.md",
+            "file": "38.make-参数.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "35.函数-错误.md",
+                "file": "38.make-参数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d14f76a7524ab297",
   "lastOpenFiles": [
+    "38.make-参数.md",
+    "37.make-调试.md",
+    "36.make-基础.md",
     "35.函数-错误.md",
     "34.函数-shell.md",
     "33.函数-origin.md",
     "32.函数-call.md",
     "31.函数-if.md",
     "30.函数-foreach.md",
-    "29.函数-文件.md",
-    "28.函数-字符串.md",
-    "27.函数-基础.md",
-    "09.规则-文件搜寻.md"
+    "29.函数-文件.md"
   ]
 }
