@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcShape.a  CMakeFiles/cShape.dir/src/cCircle.cpp.o CMakeFiles/cShape.dir/src/cRectangle.cpp.o CMakeFiles/cShape.dir/src/main.cpp.o
-/usr/bin/ranlib libcShape.a

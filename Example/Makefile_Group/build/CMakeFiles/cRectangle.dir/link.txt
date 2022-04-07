@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcRectangle.a  CMakeFiles/cRectangle.dir/src/cRectangle.cpp.o
-/usr/bin/ranlib libcRectangle.a
