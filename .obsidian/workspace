@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fbc2d411322fd6b4",
+        "id": "a96451116c824516",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "42.函数库.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42.函数库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +82,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fbc2d411322fd6b4",
+  "active": "a96451116c824516",
   "lastOpenFiles": [
+    "00.Makefile.md",
+    "01.编译&链接.md",
     "42.函数库.md",
     "41.隐含规则-自动化变量.md",
     "39.隐含规则-基础.md",
@@ -96,8 +93,6 @@
     "38.make-参数.md",
     "37.make-调试.md",
     "36.make-基础.md",
-    "35.函数-错误.md",
-    "34.函数-shell.md",
-    "33.函数-origin.md"
+    "35.函数-错误.md"
   ]
 }
