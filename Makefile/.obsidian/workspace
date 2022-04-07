@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "41.隐含规则-自动化变量.md",
+            "file": "42.函数库.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "41.隐含规则-自动化变量.md",
+                "file": "42.函数库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "fbc2d411322fd6b4",
   "lastOpenFiles": [
+    "42.函数库.md",
     "41.隐含规则-自动化变量.md",
     "39.隐含规则-基础.md",
     "40.隐含规则-模式规则.md",
@@ -97,7 +98,6 @@
     "36.make-基础.md",
     "35.函数-错误.md",
     "34.函数-shell.md",
-    "33.函数-origin.md",
-    "32.函数-call.md"
+    "33.函数-origin.md"
   ]
 }
