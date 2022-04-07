@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
   },
   "active": "a96451116c824516",
   "lastOpenFiles": [
-    "README.md.md",
+    "README.md",
     "00.Makefile.md",
     "01.编译&链接.md",
     "42.函数库.md",
